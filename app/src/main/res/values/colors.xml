@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- 컨셉 색상 -->
+    <color name="main_color">#FFFFE08C</color>
 </resources>
